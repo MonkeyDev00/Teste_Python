@@ -4,7 +4,8 @@ Esse sistema deve ser capaz de fazed a soma entre dois números.
 
 #definindo uma função de soma
 def soma (a,b):
-    valor = a,b 
+    valor = a,b
+    return soma;
     
 #local de entrada de dados
 print('Digite um valor: ')
